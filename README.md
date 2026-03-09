@@ -24,7 +24,7 @@
 
 -   **Deivisson Gonçalves Lima** -- RM565095\
 -   Email: deivisson.engtele@gmail.com\
--   LinkedIn: https://www.linkedin.com/in/deivisson-lima
+-   LinkedIn: https://www.linkedin.com/in/deivissonlima
 
 ------------------------------------------------------------------------
 
@@ -92,7 +92,9 @@ cardioia-fase1-dados-cardiologicos
 ├── assets
 │ ├── logo-fiap.png
 │ └── ecg_images
-│ └── imagens de eletrocardiogramas utilizadas para experimentos de Visão Computacional
+│ ├── 100_000000_001500.png
+│ ├── 100_000750_002250.png
+│ └── ...
 │
 ├── datasets
 │ └── pacientes_cardiacos_300.csv
@@ -106,15 +108,26 @@ cardioia-fase1-dados-cardiologicos
 └── convert_mitbih_to_images.py
 
 
-- **assets**: contém imagens utilizadas no projeto, incluindo ECGs e o logotipo institucional.  
+### Descrição das pastas
 
-- **datasets**: armazena os dados estruturados utilizados para análises de Machine Learning.  
+- **assets**  
+  Contém imagens utilizadas no projeto, incluindo ECGs e o logotipo institucional.
 
-- **docs**: contém textos utilizados para experimentos de Processamento de Linguagem Natural (NLP).  
+- **datasets**  
+  Armazena os dados estruturados utilizados para análises de Machine Learning.
 
-- **scripts**: contém scripts auxiliares utilizados para geração de datasets e conversão de sinais ECG em imagens.  
+- **docs**  
+  Contém textos utilizados para experimentos de Processamento de Linguagem Natural (NLP).
 
-- **README.md**: documento principal do projeto com descrição geral e instruções.
+- **scripts**  
+  Contém scripts auxiliares utilizados para geração de datasets e conversão de sinais ECG em imagens.
+
+- **README.md**  
+  Documento principal do projeto com descrição geral e instruções.
+
+---
+
+# 💡 Resultado visual no GitHub
 
 
 ## 📂 Acesso aos Dados

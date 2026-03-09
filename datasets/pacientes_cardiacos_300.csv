@@ -1,0 +1,301 @@
+﻿idade,sexo,pressao_sistolica_mmHg,pressao_diastolica_mmHg,colesterol_mg_dL,glicemia_mg_dL,freq_cardiaca_repouso_bpm,saturacao_o2_percent,imc,tabagismo,diabetes,hipertensao,historico_familiar_cardiaco,atividade_fisica,dor_toracica,falta_de_ar,palpitacoes,sintomas_principais,resultado_ecg,probabilidade_risco_cardiaco,classe_risco_cardiaco,evento_cardiaco_alvo
+34,Feminino,141,83,231,78,65,96,23.1,Nunca,Não,Sim,Não,Moderada,Ausente,Não,Sim,palpitações,Normal,0.0025,Baixo,0
+73,Feminino,130,89,201,133,78,95,22.1,Atual,Não,Não,Sim,Baixa,Ausente,Não,Não,assintomático,Normal,0.0789,Baixo,0
+66,Masculino,99,80,242,116,76,100,36.2,Atual,Sim,Não,Não,Baixa,Atípica,Sim,Não,"dor torácica, dispneia",Arritmia,0.6891,Alto,1
+54,Masculino,149,85,200,120,80,94,23.9,Ex-fumante,Não,Sim,Sim,Baixa,Típica,Não,Sim,"dor torácica, palpitações",Hipertrofia VE,0.3124,Moderado,1
+53,Masculino,121,84,222,160,90,100,23.3,Nunca,Não,Não,Sim,Baixa,Ausente,Não,Sim,palpitações,Normal,0.0599,Baixo,0
+77,Feminino,122,91,263,121,53,97,28.2,Nunca,Sim,Não,Não,Moderada,Ausente,Não,Não,assintomático,Alteração ST-T,0.1538,Baixo,0
+33,Masculino,113,92,199,126,89,95,28.0,Atual,Não,Não,Sim,Moderada,Ausente,Não,Não,assintomático,Normal,0.0171,Baixo,0
+68,Feminino,120,63,256,184,76,96,24.0,Nunca,Sim,Não,Sim,Moderada,Atípica,Não,Não,dor torácica,Normal,0.1023,Baixo,1
+40,Feminino,140,55,250,102,73,95,26.9,Nunca,Não,Sim,Sim,Moderada,Atípica,Sim,Não,"dor torácica, dispneia",Normal,0.0193,Baixo,0
+34,Feminino,129,94,182,86,57,94,34.4,Atual,Não,Não,Não,Moderada,Atípica,Não,Não,dor torácica,Normal,0.0073,Baixo,0
+59,Masculino,138,96,263,120,83,97,24.5,Atual,Não,Sim,Sim,Baixa,Típica,Sim,Sim,"dor torácica, dispneia, palpitações",Alteração ST-T,0.8326,Alto,1
+84,Feminino,139,70,251,120,45,95,21.6,Nunca,Não,Sim,Não,Baixa,Ausente,Sim,Sim,"dispneia, palpitações",Normal,0.1254,Baixo,0
+70,Masculino,156,60,226,93,84,93,33.0,Ex-fumante,Sim,Sim,Sim,Baixa,Atípica,Sim,Não,"dor torácica, dispneia",Hipertrofia VE,0.7239,Alto,1
+72,Masculino,126,83,190,79,57,96,30.8,Nunca,Não,Sim,Não,Baixa,Atípica,Não,Não,dor torácica,Hipertrofia VE,0.0741,Baixo,0
+69,Masculino,105,93,186,173,77,93,25.4,Atual,Sim,Não,Sim,Baixa,Ausente,Não,Não,assintomático,Normal,0.2699,Moderado,0
+73,Masculino,151,104,199,117,74,95,20.6,Nunca,Não,Sim,Sim,Baixa,Típica,Não,Não,dor torácica,Normal,0.1472,Baixo,0
+58,Feminino,126,88,245,87,91,95,24.8,Nunca,Não,Não,Sim,Baixa,Ausente,Não,Não,assintomático,Normal,0.0185,Baixo,0
+36,Feminino,152,78,182,134,74,95,28.1,Ex-fumante,Sim,Sim,Não,Moderada,Atípica,Sim,Não,"dor torácica, dispneia",Hipertrofia VE,0.0495,Baixo,1
+76,Masculino,139,71,240,105,67,100,34.1,Nunca,Não,Não,Sim,Moderada,Atípica,Não,Não,dor torácica,Alteração ST-T,0.3064,Moderado,0
+54,Feminino,130,82,170,101,69,97,23.3,Ex-fumante,Sim,Não,Sim,Alta,Típica,Sim,Não,"dor torácica, dispneia",Hipertrofia VE,0.1437,Baixo,0
+57,Masculino,138,78,213,124,93,97,28.0,Nunca,Não,Não,Não,Moderada,Atípica,Não,Não,dor torácica,Normal,0.0171,Baixo,0
+50,Masculino,167,70,227,72,83,93,31.7,Atual,Não,Sim,Sim,Moderada,Ausente,Não,Sim,palpitações,Normal,0.1452,Baixo,0
+39,Masculino,169,107,325,118,71,96,17.5,Atual,Não,Sim,Sim,Baixa,Típica,Não,Não,dor torácica,Alteração ST-T,0.467,Moderado,0
+81,Feminino,133,103,164,162,73,97,33.5,Ex-fumante,Não,Sim,Sim,Moderada,Atípica,Sim,Não,"dor torácica, dispneia",Normal,0.1649,Baixo,0
+73,Masculino,135,96,284,121,56,95,22.6,Atual,Não,Não,Sim,Baixa,Atípica,Não,Sim,"dor torácica, palpitações",Hipertrofia VE,0.5922,Alto,0
+65,Masculino,151,71,228,97,81,99,30.0,Nunca,Não,Sim,Sim,Moderada,Atípica,Não,Não,dor torácica,Normal,0.0622,Baixo,0
+51,Masculino,117,92,239,94,53,95,29.6,Ex-fumante,Não,Não,Sim,Moderada,Ausente,Sim,Não,dispneia,Normal,0.039,Baixo,0
+75,Feminino,138,90,227,97,86,96,33.7,Nunca,Não,Não,Sim,Moderada,Atípica,Não,Não,dor torácica,Alteração ST-T,0.1545,Baixo,0
+60,Feminino,132,87,241,101,78,96,31.1,Atual,Sim,Não,Não,Baixa,Típica,Não,Não,dor torácica,Alteração ST-T,0.5496,Alto,0
+54,Feminino,138,97,216,97,107,97,17.5,Atual,Não,Não,Não,Moderada,Ausente,Não,Não,assintomático,Alteração ST-T,0.0136,Baixo,0
+54,Feminino,117,90,283,134,62,96,24.6,Atual,Não,Não,Sim,Alta,Atípica,Não,Não,dor torácica,Normal,0.0465,Baixo,0
+41,Feminino,103,91,203,65,75,96,29.1,Atual,Sim,Não,Não,Moderada,Típica,Não,Não,dor torácica,Arritmia,0.0579,Baixo,0
+34,Masculino,95,90,270,132,99,97,27.4,Atual,Não,Sim,Sim,Moderada,Típica,Não,Não,dor torácica,Arritmia,0.1734,Baixo,0
+60,Masculino,112,86,195,97,91,96,30.7,Nunca,Não,Sim,Não,Moderada,Típica,Não,Não,dor torácica,Arritmia,0.0729,Baixo,0
+79,Feminino,124,61,219,119,67,98,32.3,Atual,Não,Não,Não,Baixa,Ausente,Não,Não,assintomático,Alteração ST-T,0.2866,Moderado,0
+32,Feminino,127,83,177,76,79,97,31.4,Ex-fumante,Não,Não,Não,Moderada,Típica,Não,Não,dor torácica,Alteração ST-T,0.0117,Baixo,0
+77,Masculino,167,75,241,145,76,97,27.4,Nunca,Não,Sim,Não,Moderada,Ausente,Não,Não,assintomático,Alteração ST-T,0.2288,Moderado,0
+76,Masculino,152,67,283,143,80,96,19.4,Ex-fumante,Não,Sim,Não,Baixa,Atípica,Não,Sim,"dor torácica, palpitações",Normal,0.1319,Baixo,0
+44,Feminino,115,102,219,135,67,99,26.2,Nunca,Não,Não,Não,Baixa,Atípica,Não,Não,dor torácica,Normal,0.0065,Baixo,0
+65,Masculino,138,103,214,66,75,97,30.4,Nunca,Não,Não,Sim,Alta,Típica,Não,Não,dor torácica,Alteração ST-T,0.2034,Baixo,0
+38,Feminino,125,98,175,131,55,96,23.1,Nunca,Não,Não,Não,Moderada,Típica,Não,Não,dor torácica,Normal,0.0044,Baixo,0
+72,Masculino,127,85,212,119,78,97,31.5,Nunca,Não,Não,Não,Moderada,Atípica,Não,Não,dor torácica,Normal,0.0369,Baixo,0
+68,Masculino,135,98,155,65,82,100,32.9,Ex-fumante,Não,Não,Não,Moderada,Atípica,Sim,Sim,"dor torácica, dispneia, palpitações",Arritmia,0.1006,Baixo,0
+49,Feminino,143,82,184,107,73,94,29.0,Atual,Não,Sim,Não,Moderada,Ausente,Sim,Não,dispneia,Normal,0.0269,Baixo,0
+32,Masculino,126,84,232,118,55,99,17.5,Ex-fumante,Sim,Não,Não,Moderada,Atípica,Não,Não,dor torácica,Alteração ST-T,0.0097,Baixo,0
+84,Masculino,151,69,277,124,89,93,22.1,Ex-fumante,Não,Sim,Sim,Baixa,Atípica,Não,Sim,"dor torácica, palpitações",Alteração ST-T,0.5292,Alto,1
+54,Feminino,111,87,340,113,81,97,37.6,Nunca,Não,Não,Sim,Moderada,Ausente,Não,Sim,palpitações,Normal,0.1382,Baixo,0
+79,Feminino,132,83,197,116,67,100,25.7,Nunca,Não,Sim,Não,Moderada,Atípica,Sim,Não,"dor torácica, dispneia",Arritmia,0.0718,Baixo,0
+67,Masculino,179,66,282,149,72,98,18.7,Nunca,Não,Sim,Sim,Baixa,Típica,Não,Não,dor torácica,Normal,0.3733,Moderado,1
+73,Masculino,136,81,232,142,56,97,34.5,Atual,Não,Não,Não,Moderada,Atípica,Não,Não,dor torácica,Arritmia,0.4139,Moderado,1
+72,Feminino,158,81,216,65,63,96,28.5,Nunca,Não,Sim,Não,Baixa,Típica,Não,Não,dor torácica,Hipertrofia VE,0.1735,Baixo,0
+40,Feminino,134,104,240,99,69,97,33.8,Ex-fumante,Sim,Sim,Sim,Moderada,Ausente,Não,Não,assintomático,Normal,0.0362,Baixo,0
+49,Masculino,142,93,225,103,92,96,29.8,Atual,Não,Sim,Não,Moderada,Atípica,Não,Não,dor torácica,Normal,0.0347,Baixo,0
+55,Masculino,131,82,227,65,68,95,30.6,Ex-fumante,Sim,Sim,Sim,Moderada,Ausente,Sim,Sim,"dispneia, palpitações",Normal,0.1442,Baixo,1
+57,Masculino,129,85,205,111,84,96,30.2,Atual,Não,Não,Não,Moderada,Ausente,Sim,Não,dispneia,Normal,0.0732,Baixo,0
+31,Masculino,118,83,163,143,69,97,31.8,Nunca,Não,Não,Não,Alta,Atípica,Não,Não,dor torácica,Normal,0.0043,Baixo,0
+60,Masculino,140,80,157,78,79,95,39.6,Atual,Não,Sim,Não,Moderada,Ausente,Não,Não,assintomático,Arritmia,0.1397,Baixo,0
+37,Feminino,117,69,249,117,74,95,33.2,Ex-fumante,Não,Não,Não,Moderada,Ausente,Não,Não,assintomático,Normal,0.0065,Baixo,0
+71,Masculino,144,80,210,82,87,94,20.7,Atual,Sim,Sim,Sim,Moderada,Atípica,Não,Não,dor torácica,Arritmia,0.2311,Moderado,0
+67,Masculino,152,73,197,89,69,98,30.6,Ex-fumante,Sim,Sim,Não,Baixa,Ausente,Não,Sim,palpitações,Normal,0.1525,Baixo,0
+81,Feminino,139,67,222,149,56,98,34.0,Atual,Sim,Não,Sim,Baixa,Ausente,Não,Não,assintomático,Arritmia,0.8285,Alto,1
+71,Feminino,127,88,255,93,58,97,34.3,Atual,Não,Sim,Sim,Moderada,Ausente,Sim,Não,dispneia,Normal,0.2573,Moderado,1
+49,Masculino,140,87,230,121,69,99,26.3,Nunca,Sim,Sim,Sim,Baixa,Atípica,Sim,Não,"dor torácica, dispneia",Normal,0.1708,Baixo,0
+84,Feminino,126,61,194,65,60,97,34.1,Atual,Não,Não,Não,Baixa,Ausente,Não,Não,assintomático,Alteração ST-T,0.2057,Baixo,0
+52,Feminino,149,81,274,160,81,98,32.9,Ex-fumante,Sim,Sim,Não,Moderada,Atípica,Sim,Não,"dor torácica, dispneia",Normal,0.1856,Baixo,0
+47,Feminino,99,94,288,125,70,98,41.0,Nunca,Não,Não,Não,Moderada,Atípica,Não,Sim,"dor torácica, palpitações",Hipertrofia VE,0.1078,Baixo,1
+80,Masculino,126,95,243,103,107,97,24.7,Atual,Não,Sim,Sim,Baixa,Ausente,Não,Não,assintomático,Normal,0.211,Baixo,1
+50,Masculino,96,94,263,124,53,96,25.9,Nunca,Não,Não,Não,Moderada,Típica,Não,Não,dor torácica,Alteração ST-T,0.0571,Baixo,0
+33,Feminino,105,82,274,69,79,100,26.9,Ex-fumante,Não,Não,Sim,Moderada,Ausente,Não,Sim,palpitações,Alteração ST-T,0.0134,Baixo,0
+55,Masculino,157,72,269,141,61,96,26.0,Nunca,Não,Sim,Sim,Moderada,Ausente,Não,Não,assintomático,Alteração ST-T,0.167,Baixo,0
+74,Masculino,148,69,248,99,70,96,24.0,Nunca,Sim,Sim,Não,Baixa,Ausente,Sim,Sim,"dispneia, palpitações",Normal,0.2999,Moderado,1
+39,Masculino,119,86,247,102,78,98,17.5,Atual,Sim,Não,Sim,Moderada,Atípica,Não,Não,dor torácica,Normal,0.0222,Baixo,0
+55,Feminino,105,87,244,94,46,98,26.3,Nunca,Sim,Não,Não,Baixa,Ausente,Não,Não,assintomático,Normal,0.0164,Baixo,0
+36,Feminino,90,97,176,92,79,94,30.2,Nunca,Não,Não,Sim,Moderada,Típica,Não,Sim,"dor torácica, palpitações",Normal,0.0097,Baixo,0
+68,Masculino,122,95,251,127,101,99,26.0,Nunca,Não,Não,Não,Baixa,Ausente,Sim,Não,dispneia,Normal,0.0871,Baixo,0
+56,Feminino,176,80,165,115,70,97,37.9,Ex-fumante,Não,Sim,Sim,Alta,Atípica,Não,Não,dor torácica,Arritmia,0.1403,Baixo,1
+47,Masculino,140,67,189,126,79,95,28.5,Atual,Não,Sim,Sim,Baixa,Ausente,Não,Não,assintomático,Alteração ST-T,0.1903,Baixo,1
+41,Masculino,122,78,277,108,89,99,34.7,Atual,Não,Não,Sim,Moderada,Ausente,Não,Não,assintomático,Alteração ST-T,0.2182,Baixo,0
+61,Feminino,140,85,257,122,74,98,29.7,Nunca,Não,Sim,Não,Baixa,Ausente,Não,Não,assintomático,Normal,0.039,Baixo,0
+67,Masculino,104,80,284,96,68,94,32.4,Ex-fumante,Não,Sim,Sim,Moderada,Atípica,Sim,Não,"dor torácica, dispneia",Normal,0.126,Baixo,0
+82,Masculino,127,75,211,170,46,100,29.8,Nunca,Não,Não,Não,Moderada,Ausente,Não,Não,assintomático,Alteração ST-T,0.1906,Baixo,0
+53,Masculino,134,85,174,65,84,98,35.1,Ex-fumante,Não,Sim,Sim,Moderada,Típica,Sim,Não,"dor torácica, dispneia",Normal,0.1089,Baixo,0
+38,Feminino,130,76,212,143,75,97,28.7,Nunca,Não,Não,Não,Baixa,Atípica,Não,Não,dor torácica,Normal,0.0088,Baixo,1
+76,Feminino,146,74,226,146,63,100,30.8,Nunca,Não,Sim,Não,Baixa,Típica,Não,Não,dor torácica,Normal,0.2276,Moderado,0
+64,Feminino,138,86,225,84,78,97,30.2,Nunca,Sim,Não,Não,Baixa,Ausente,Não,Não,assintomático,Alteração ST-T,0.1165,Baixo,0
+68,Feminino,144,77,270,170,68,97,27.0,Ex-fumante,Não,Sim,Não,Alta,Típica,Não,Não,dor torácica,Arritmia,0.2813,Moderado,0
+34,Masculino,120,85,207,136,69,96,30.4,Ex-fumante,Sim,Sim,Não,Moderada,Atípica,Não,Não,dor torácica,Normal,0.0146,Baixo,0
+46,Feminino,148,85,237,135,84,98,39.3,Nunca,Não,Sim,Sim,Baixa,Atípica,Não,Não,dor torácica,Alteração ST-T,0.2548,Moderado,0
+72,Masculino,161,68,180,109,59,98,27.1,Atual,Não,Sim,Não,Alta,Típica,Não,Não,dor torácica,Normal,0.179,Baixo,0
+76,Masculino,115,76,241,102,90,97,30.5,Ex-fumante,Não,Não,Sim,Baixa,Atípica,Sim,Não,"dor torácica, dispneia",Normal,0.2107,Baixo,0
+53,Feminino,116,99,222,102,58,95,34.6,Nunca,Sim,Não,Não,Moderada,Típica,Sim,Não,"dor torácica, dispneia",Hipertrofia VE,0.2676,Moderado,1
+74,Feminino,156,68,191,119,67,97,34.0,Atual,Não,Sim,Sim,Moderada,Atípica,Não,Não,dor torácica,Normal,0.1848,Baixo,0
+76,Masculino,129,57,212,147,101,97,28.5,Atual,Não,Não,Sim,Alta,Ausente,Não,Sim,palpitações,Alteração ST-T,0.5152,Alto,0
+51,Masculino,157,60,214,113,91,94,17.5,Nunca,Não,Sim,Não,Moderada,Atípica,Sim,Sim,"dor torácica, dispneia, palpitações",Normal,0.0173,Baixo,0
+80,Feminino,124,82,211,82,77,94,30.9,Ex-fumante,Não,Não,Sim,Moderada,Atípica,Não,Não,dor torácica,Normal,0.0347,Baixo,0
+45,Feminino,158,82,296,131,64,98,17.5,Nunca,Não,Sim,Sim,Alta,Típica,Sim,Sim,"dor torácica, dispneia, palpitações",Arritmia,0.2585,Moderado,0
+42,Feminino,134,81,218,134,69,92,35.6,Ex-fumante,Não,Não,Sim,Baixa,Típica,Não,Sim,"dor torácica, palpitações",Normal,0.1879,Baixo,0
+67,Masculino,137,97,212,126,77,97,29.2,Nunca,Não,Não,Não,Alta,Ausente,Sim,Não,dispneia,Hipertrofia VE,0.1412,Baixo,0
+65,Masculino,160,55,134,129,76,96,33.3,Ex-fumante,Não,Sim,Não,Alta,Ausente,Não,Sim,palpitações,Normal,0.05,Baixo,0
+36,Masculino,125,87,184,100,75,100,24.0,Nunca,Não,Não,Sim,Alta,Ausente,Não,Não,assintomático,Arritmia,0.01,Baixo,0
+76,Feminino,115,101,211,82,76,96,20.8,Ex-fumante,Não,Não,Não,Baixa,Atípica,Não,Não,dor torácica,Normal,0.0074,Baixo,0
+40,Feminino,124,68,193,84,73,98,29.7,Atual,Sim,Não,Sim,Baixa,Ausente,Não,Não,assintomático,Normal,0.046,Baixo,0
+74,Masculino,140,77,280,65,57,96,28.2,Nunca,Sim,Sim,Não,Moderada,Atípica,Sim,Não,"dor torácica, dispneia",Hipertrofia VE,0.3213,Moderado,0
+29,Masculino,104,73,215,115,69,97,26.0,Atual,Não,Não,Sim,Moderada,Atípica,Sim,Não,"dor torácica, dispneia",Normal,0.0206,Baixo,1
+74,Masculino,143,71,276,106,88,98,28.8,Atual,Não,Sim,Não,Moderada,Típica,Não,Sim,"dor torácica, palpitações",Normal,0.4636,Moderado,0
+73,Feminino,122,78,225,96,58,96,42.0,Atual,Não,Não,Não,Alta,Ausente,Não,Não,assintomático,Arritmia,0.2795,Moderado,0
+73,Feminino,153,99,224,65,74,99,32.5,Nunca,Não,Sim,Sim,Moderada,Atípica,Não,Não,dor torácica,Alteração ST-T,0.1124,Baixo,0
+66,Masculino,90,104,218,73,65,95,33.5,Atual,Não,Sim,Sim,Baixa,Ausente,Não,Não,assintomático,Hipertrofia VE,0.216,Baixo,0
+55,Masculino,118,78,222,139,77,98,32.5,Nunca,Não,Não,Sim,Moderada,Típica,Não,Não,dor torácica,Alteração ST-T,0.2713,Moderado,0
+69,Feminino,102,105,294,89,71,99,35.6,Nunca,Sim,Não,Sim,Baixa,Ausente,Sim,Sim,"dispneia, palpitações",Arritmia,0.6932,Alto,1
+44,Masculino,117,82,125,118,95,98,27.5,Atual,Não,Não,Não,Baixa,Ausente,Sim,Sim,"dispneia, palpitações",Arritmia,0.0892,Baixo,0
+73,Feminino,136,103,138,69,83,100,18.3,Ex-fumante,Sim,Sim,Não,Baixa,Ausente,Não,Não,assintomático,Alteração ST-T,0.0177,Baixo,0
+60,Masculino,129,81,199,148,59,95,27.5,Ex-fumante,Não,Não,Não,Moderada,Típica,Não,Não,dor torácica,Normal,0.0528,Baixo,0
+55,Masculino,127,84,223,104,85,94,32.4,Nunca,Não,Não,Não,Moderada,Ausente,Não,Não,assintomático,Normal,0.018,Baixo,0
+57,Feminino,129,86,251,116,66,95,23.6,Atual,Sim,Sim,Não,Moderada,Atípica,Não,Não,dor torácica,Alteração ST-T,0.0984,Baixo,0
+61,Masculino,136,120,242,173,68,98,27.5,Ex-fumante,Não,Não,Sim,Moderada,Atípica,Não,Sim,"dor torácica, palpitações",Arritmia,0.2817,Moderado,0
+31,Masculino,114,92,206,150,80,98,25.0,Nunca,Sim,Não,Não,Moderada,Atípica,Não,Sim,"dor torácica, palpitações",Normal,0.0122,Baixo,0
+36,Masculino,145,74,265,99,70,97,35.8,Atual,Não,Sim,Não,Moderada,Ausente,Não,Não,assintomático,Normal,0.055,Baixo,0
+42,Masculino,144,94,265,91,88,95,32.1,Nunca,Não,Sim,Não,Alta,Ausente,Não,Não,assintomático,Normal,0.0172,Baixo,0
+35,Masculino,139,78,230,99,66,99,31.6,Nunca,Não,Não,Não,Moderada,Ausente,Sim,Não,dispneia,Alteração ST-T,0.0436,Baixo,0
+54,Masculino,142,76,262,122,68,95,31.4,Ex-fumante,Sim,Sim,Não,Moderada,Ausente,Não,Não,assintomático,Arritmia,0.186,Baixo,1
+67,Masculino,137,93,233,105,67,99,28.2,Atual,Não,Sim,Sim,Moderada,Atípica,Não,Não,dor torácica,Normal,0.1216,Baixo,0
+66,Masculino,169,82,198,97,69,100,29.4,Nunca,Sim,Sim,Não,Moderada,Ausente,Não,Não,assintomático,Alteração ST-T,0.1666,Baixo,0
+55,Feminino,130,85,251,149,90,98,22.6,Nunca,Sim,Não,Sim,Alta,Ausente,Sim,Não,dispneia,Hipertrofia VE,0.1778,Baixo,0
+77,Feminino,126,82,227,105,84,98,17.7,Nunca,Não,Não,Sim,Moderada,Ausente,Não,Sim,palpitações,Arritmia,0.0479,Baixo,0
+61,Masculino,118,86,222,172,98,96,29.1,Atual,Não,Não,Sim,Moderada,Atípica,Não,Não,dor torácica,Normal,0.1423,Baixo,0
+33,Masculino,113,87,284,111,105,93,30.0,Nunca,Não,Não,Sim,Baixa,Ausente,Não,Não,assintomático,Arritmia,0.0705,Baixo,0
+72,Masculino,110,59,120,158,63,96,34.3,Ex-fumante,Sim,Não,Não,Moderada,Atípica,Não,Não,dor torácica,Alteração ST-T,0.1289,Baixo,0
+61,Feminino,116,90,162,118,77,95,36.1,Atual,Não,Não,Não,Moderada,Ausente,Não,Não,assintomático,Hipertrofia VE,0.0685,Baixo,1
+65,Feminino,131,70,172,135,61,94,36.1,Nunca,Não,Não,Não,Moderada,Típica,Sim,Não,"dor torácica, dispneia",Normal,0.1261,Baixo,0
+61,Masculino,138,65,207,88,66,100,23.5,Ex-fumante,Não,Não,Sim,Moderada,Atípica,Não,Não,dor torácica,Alteração ST-T,0.0388,Baixo,0
+60,Masculino,133,81,211,84,68,98,26.7,Ex-fumante,Não,Não,Sim,Baixa,Ausente,Não,Sim,palpitações,Alteração ST-T,0.1278,Baixo,0
+34,Masculino,118,83,159,121,62,98,30.8,Atual,Sim,Não,Não,Alta,Ausente,Não,Não,assintomático,Normal,0.0195,Baixo,0
+60,Masculino,148,74,181,136,62,96,40.8,Nunca,Não,Sim,Não,Baixa,Ausente,Sim,Não,dispneia,Normal,0.2304,Moderado,1
+74,Feminino,145,92,186,109,74,97,35.7,Nunca,Não,Sim,Sim,Alta,Ausente,Sim,Não,dispneia,Alteração ST-T,0.2799,Moderado,0
+46,Masculino,129,66,325,72,60,99,33.9,Nunca,Não,Não,Sim,Baixa,Ausente,Sim,Não,dispneia,Alteração ST-T,0.3509,Moderado,1
+63,Masculino,120,77,298,70,87,97,26.5,Ex-fumante,Não,Sim,Sim,Moderada,Típica,Não,Não,dor torácica,Normal,0.0936,Baixo,0
+30,Masculino,142,75,205,68,64,98,24.1,Atual,Não,Sim,Sim,Moderada,Atípica,Sim,Não,"dor torácica, dispneia",Normal,0.0179,Baixo,0
+48,Masculino,135,81,207,65,113,97,32.3,Nunca,Sim,Sim,Sim,Alta,Ausente,Sim,Não,dispneia,Normal,0.0733,Baixo,0
+53,Masculino,106,85,174,111,70,96,23.0,Nunca,Não,Não,Sim,Baixa,Atípica,Não,Sim,"dor torácica, palpitações",Arritmia,0.0401,Baixo,0
+85,Feminino,131,70,142,140,77,94,27.2,Atual,Não,Não,Não,Alta,Ausente,Não,Sim,palpitações,Arritmia,0.1578,Baixo,0
+41,Masculino,137,91,217,108,59,93,27.8,Nunca,Sim,Sim,Não,Moderada,Típica,Sim,Não,"dor torácica, dispneia",Normal,0.0915,Baixo,0
+44,Feminino,116,83,180,65,98,96,36.2,Nunca,Não,Não,Sim,Moderada,Ausente,Não,Não,assintomático,Normal,0.0066,Baixo,0
+52,Masculino,135,59,218,103,91,97,26.7,Ex-fumante,Não,Não,Sim,Moderada,Atípica,Não,Não,dor torácica,Normal,0.0184,Baixo,0
+85,Feminino,106,58,155,103,80,94,17.5,Nunca,Não,Não,Não,Baixa,Atípica,Não,Sim,"dor torácica, palpitações",Normal,0.008,Baixo,0
+77,Feminino,156,82,190,167,58,97,30.9,Nunca,Sim,Sim,Sim,Moderada,Ausente,Não,Não,assintomático,Arritmia,0.4319,Moderado,1
+30,Feminino,154,79,228,67,79,97,25.0,Nunca,Não,Sim,Não,Baixa,Ausente,Não,Sim,palpitações,Alteração ST-T,0.0126,Baixo,0
+42,Feminino,127,81,237,97,61,93,28.6,Nunca,Não,Não,Sim,Baixa,Ausente,Sim,Não,dispneia,Normal,0.0295,Baixo,0
+75,Feminino,139,82,240,156,95,95,28.0,Ex-fumante,Não,Sim,Não,Moderada,Típica,Sim,Não,"dor torácica, dispneia",Normal,0.214,Baixo,0
+32,Feminino,90,85,167,121,87,98,27.1,Ex-fumante,Não,Não,Sim,Moderada,Atípica,Não,Não,dor torácica,Normal,0.0015,Baixo,0
+77,Feminino,111,93,258,124,77,98,32.3,Ex-fumante,Não,Não,Não,Baixa,Atípica,Não,Não,dor torácica,Arritmia,0.1498,Baixo,0
+45,Masculino,127,69,188,111,45,95,20.9,Nunca,Não,Não,Não,Baixa,Típica,Não,Sim,"dor torácica, palpitações",Alteração ST-T,0.0548,Baixo,0
+81,Masculino,113,68,249,117,63,97,25.9,Atual,Sim,Sim,Não,Baixa,Típica,Não,Não,dor torácica,Alteração ST-T,0.7412,Alto,0
+45,Masculino,145,69,222,130,85,99,31.8,Nunca,Sim,Sim,Sim,Baixa,Atípica,Sim,Não,"dor torácica, dispneia",Normal,0.2617,Moderado,1
+53,Feminino,168,85,164,85,92,99,25.4,Atual,Não,Sim,Não,Moderada,Atípica,Não,Não,dor torácica,Arritmia,0.0269,Baixo,0
+66,Masculino,111,97,209,133,90,97,20.5,Nunca,Sim,Não,Não,Baixa,Atípica,Não,Não,dor torácica,Normal,0.0304,Baixo,0
+36,Masculino,117,77,237,70,55,96,31.7,Atual,Sim,Não,Sim,Alta,Ausente,Não,Não,assintomático,Arritmia,0.1271,Baixo,0
+60,Feminino,136,55,248,117,80,96,33.9,Nunca,Não,Sim,Não,Baixa,Típica,Sim,Não,"dor torácica, dispneia",Arritmia,0.4405,Moderado,1
+57,Masculino,161,62,216,113,89,98,28.2,Nunca,Não,Sim,Não,Baixa,Ausente,Não,Não,assintomático,Alteração ST-T,0.1007,Baixo,0
+73,Masculino,110,72,286,91,54,97,18.8,Ex-fumante,Sim,Sim,Não,Alta,Ausente,Sim,Não,dispneia,Arritmia,0.1197,Baixo,0
+85,Masculino,136,75,264,107,76,98,31.9,Nunca,Não,Não,Sim,Baixa,Típica,Não,Sim,"dor torácica, palpitações",Normal,0.687,Alto,1
+66,Masculino,165,77,211,91,80,97,20.3,Nunca,Sim,Sim,Não,Moderada,Ausente,Não,Não,assintomático,Alteração ST-T,0.0675,Baixo,0
+52,Masculino,102,82,254,78,72,99,29.9,Ex-fumante,Não,Não,Não,Alta,Ausente,Sim,Sim,"dispneia, palpitações",Normal,0.0256,Baixo,0
+52,Masculino,109,78,303,98,52,97,24.1,Atual,Não,Não,Não,Alta,Ausente,Não,Sim,palpitações,Normal,0.0395,Baixo,0
+52,Masculino,124,95,304,77,72,99,22.7,Nunca,Sim,Não,Não,Moderada,Atípica,Sim,Não,"dor torácica, dispneia",Normal,0.0393,Baixo,0
+75,Masculino,123,74,170,117,72,99,26.2,Atual,Não,Não,Não,Baixa,Típica,Não,Não,dor torácica,Normal,0.1687,Baixo,1
+47,Masculino,147,72,183,76,74,95,27.5,Atual,Não,Sim,Não,Moderada,Ausente,Sim,Sim,"dispneia, palpitações",Normal,0.043,Baixo,0
+38,Feminino,136,88,284,128,69,93,25.2,Atual,Não,Não,Não,Alta,Ausente,Sim,Não,dispneia,Normal,0.0331,Baixo,0
+48,Masculino,100,64,178,75,70,100,31.3,Ex-fumante,Não,Não,Não,Alta,Atípica,Sim,Não,"dor torácica, dispneia",Alteração ST-T,0.0172,Baixo,0
+30,Feminino,141,87,166,92,75,98,26.2,Ex-fumante,Não,Sim,Sim,Baixa,Típica,Não,Não,dor torácica,Normal,0.0117,Baixo,0
+35,Feminino,122,83,202,91,82,94,33.2,Ex-fumante,Não,Não,Não,Moderada,Ausente,Sim,Não,dispneia,Normal,0.0061,Baixo,0
+34,Masculino,155,80,240,145,72,96,29.8,Ex-fumante,Não,Sim,Não,Baixa,Típica,Sim,Não,"dor torácica, dispneia",Arritmia,0.3292,Moderado,1
+72,Masculino,121,101,218,117,71,99,25.0,Atual,Não,Não,Sim,Baixa,Típica,Não,Sim,"dor torácica, palpitações",Arritmia,0.6752,Alto,1
+70,Masculino,121,75,195,102,77,96,24.2,Nunca,Não,Não,Sim,Moderada,Ausente,Não,Não,assintomático,Normal,0.0192,Baixo,0
+68,Feminino,142,107,194,122,51,96,20.3,Nunca,Sim,Sim,Sim,Baixa,Típica,Sim,Sim,"dor torácica, dispneia, palpitações",Normal,0.3437,Moderado,1
+55,Feminino,146,79,192,65,82,100,29.8,Nunca,Não,Sim,Não,Baixa,Atípica,Não,Não,dor torácica,Alteração ST-T,0.0232,Baixo,0
+69,Feminino,140,67,185,107,76,95,26.7,Atual,Não,Sim,Não,Baixa,Atípica,Sim,Não,"dor torácica, dispneia",Hipertrofia VE,0.1894,Baixo,0
+38,Masculino,102,83,318,164,77,95,17.5,Nunca,Não,Não,Não,Moderada,Ausente,Sim,Não,dispneia,Normal,0.0114,Baixo,0
+80,Feminino,142,69,234,112,88,97,25.8,Ex-fumante,Não,Sim,Não,Baixa,Típica,Não,Não,dor torácica,Hipertrofia VE,0.2608,Moderado,0
+57,Masculino,113,73,259,110,51,98,24.0,Atual,Não,Não,Não,Moderada,Típica,Não,Não,dor torácica,Normal,0.0691,Baixo,0
+82,Feminino,136,87,201,123,50,98,36.1,Atual,Não,Não,Sim,Baixa,Atípica,Não,Não,dor torácica,Normal,0.3717,Moderado,0
+37,Masculino,106,89,214,133,80,99,20.1,Nunca,Não,Sim,Não,Alta,Típica,Não,Não,dor torácica,Hipertrofia VE,0.0143,Baixo,0
+57,Feminino,140,75,192,65,76,97,21.3,Atual,Sim,Sim,Sim,Baixa,Atípica,Sim,Não,"dor torácica, dispneia",Alteração ST-T,0.1866,Baixo,0
+68,Feminino,117,94,120,65,78,98,33.8,Atual,Sim,Sim,Não,Moderada,Típica,Não,Não,dor torácica,Arritmia,0.163,Baixo,1
+57,Masculino,109,96,164,114,70,96,35.0,Nunca,Não,Não,Não,Baixa,Típica,Não,Não,dor torácica,Normal,0.0609,Baixo,0
+54,Feminino,145,99,146,88,85,97,24.7,Atual,Sim,Sim,Sim,Baixa,Ausente,Sim,Não,dispneia,Normal,0.093,Baixo,0
+38,Masculino,136,88,128,145,88,97,25.3,Nunca,Sim,Não,Sim,Baixa,Ausente,Não,Não,assintomático,Normal,0.0239,Baixo,0
+50,Feminino,121,98,172,99,82,97,31.4,Ex-fumante,Não,Não,Não,Baixa,Ausente,Sim,Não,dispneia,Normal,0.0139,Baixo,0
+42,Masculino,158,59,278,65,73,99,17.5,Ex-fumante,Não,Sim,Sim,Baixa,Típica,Não,Não,dor torácica,Normal,0.0391,Baixo,0
+46,Feminino,124,78,220,72,49,98,19.3,Nunca,Não,Não,Não,Moderada,Ausente,Não,Não,assintomático,Alteração ST-T,0.0027,Baixo,0
+67,Masculino,133,72,276,65,86,97,27.0,Nunca,Não,Sim,Não,Moderada,Atípica,Não,Não,dor torácica,Alteração ST-T,0.0506,Baixo,1
+64,Feminino,137,83,239,101,92,95,36.0,Nunca,Não,Não,Sim,Baixa,Ausente,Sim,Não,dispneia,Alteração ST-T,0.3794,Moderado,0
+63,Feminino,121,75,255,103,84,97,26.3,Nunca,Não,Sim,Não,Moderada,Ausente,Sim,Não,dispneia,Normal,0.0191,Baixo,0
+49,Feminino,140,80,184,96,65,97,28.9,Ex-fumante,Não,Sim,Não,Moderada,Atípica,Sim,Não,"dor torácica, dispneia",Normal,0.0087,Baixo,0
+83,Feminino,122,105,244,138,85,97,34.0,Nunca,Sim,Não,Não,Baixa,Ausente,Sim,Não,dispneia,Hipertrofia VE,0.6264,Alto,1
+33,Feminino,125,80,253,142,87,100,38.7,Nunca,Sim,Não,Não,Moderada,Típica,Sim,Sim,"dor torácica, dispneia, palpitações",Normal,0.2781,Moderado,1
+48,Feminino,157,87,198,103,96,96,25.6,Ex-fumante,Não,Sim,Não,Baixa,Ausente,Sim,Sim,"dispneia, palpitações",Arritmia,0.0703,Baixo,0
+35,Masculino,113,79,246,65,65,98,28.3,Ex-fumante,Não,Não,Não,Baixa,Típica,Não,Não,dor torácica,Normal,0.0154,Baixo,0
+48,Feminino,90,83,246,125,73,99,37.3,Ex-fumante,Não,Sim,Sim,Moderada,Ausente,Sim,Não,dispneia,Alteração ST-T,0.1056,Baixo,0
+83,Masculino,161,82,199,124,86,97,20.9,Atual,Não,Sim,Sim,Alta,Típica,Não,Não,dor torácica,Arritmia,0.5769,Alto,1
+49,Feminino,178,87,175,117,77,100,33.4,Nunca,Sim,Sim,Não,Alta,Atípica,Sim,Sim,"dor torácica, dispneia, palpitações",Alteração ST-T,0.2511,Moderado,0
+80,Masculino,125,96,172,135,61,96,23.4,Atual,Sim,Não,Não,Alta,Ausente,Não,Não,assintomático,Alteração ST-T,0.2165,Baixo,0
+57,Feminino,97,102,226,75,81,98,28.9,Nunca,Sim,Não,Sim,Moderada,Ausente,Não,Não,assintomático,Hipertrofia VE,0.0392,Baixo,0
+68,Feminino,126,86,236,164,84,95,27.2,Ex-fumante,Sim,Sim,Não,Baixa,Ausente,Sim,Não,dispneia,Normal,0.1748,Baixo,0
+55,Masculino,127,89,189,81,77,96,23.7,Atual,Sim,Não,Não,Baixa,Atípica,Não,Não,dor torácica,Hipertrofia VE,0.0962,Baixo,0
+44,Masculino,129,68,223,129,79,97,23.6,Atual,Não,Não,Sim,Baixa,Típica,Não,Não,dor torácica,Arritmia,0.3007,Moderado,1
+72,Feminino,112,81,246,65,73,99,29.8,Ex-fumante,Não,Sim,Não,Baixa,Ausente,Sim,Não,dispneia,Arritmia,0.089,Baixo,0
+84,Feminino,142,93,248,82,95,98,33.3,Ex-fumante,Não,Sim,Não,Baixa,Ausente,Não,Não,assintomático,Normal,0.0905,Baixo,1
+44,Masculino,141,92,287,150,64,100,27.8,Nunca,Não,Sim,Não,Moderada,Atípica,Não,Não,dor torácica,Normal,0.0278,Baixo,0
+73,Feminino,105,85,276,101,68,97,28.7,Ex-fumante,Não,Não,Não,Baixa,Atípica,Não,Sim,"dor torácica, palpitações",Hipertrofia VE,0.1175,Baixo,0
+43,Feminino,145,93,180,132,76,96,31.2,Atual,Não,Sim,Não,Baixa,Atípica,Não,Sim,"dor torácica, palpitações",Alteração ST-T,0.1183,Baixo,0
+69,Masculino,169,88,293,115,87,100,23.6,Atual,Sim,Sim,Sim,Moderada,Atípica,Não,Não,dor torácica,Normal,0.4386,Moderado,0
+73,Masculino,135,96,200,105,57,98,32.0,Ex-fumante,Não,Sim,Não,Baixa,Atípica,Sim,Não,"dor torácica, dispneia",Normal,0.1187,Baixo,0
+54,Masculino,126,85,266,146,59,96,32.4,Nunca,Sim,Não,Sim,Alta,Típica,Sim,Não,"dor torácica, dispneia",Normal,0.5607,Alto,1
+71,Feminino,129,78,225,101,50,96,41.2,Ex-fumante,Sim,Sim,Sim,Baixa,Ausente,Não,Sim,palpitações,Normal,0.4479,Moderado,1
+44,Masculino,143,86,205,65,76,95,26.6,Nunca,Não,Sim,Não,Moderada,Ausente,Sim,Sim,"dispneia, palpitações",Normal,0.0138,Baixo,0
+33,Feminino,101,55,146,86,61,99,26.2,Nunca,Não,Sim,Não,Baixa,Ausente,Não,Não,assintomático,Normal,0.0008,Baixo,0
+34,Feminino,135,87,215,123,71,96,32.2,Nunca,Não,Não,Não,Moderada,Atípica,Sim,Sim,"dor torácica, dispneia, palpitações",Normal,0.018,Baixo,0
+54,Masculino,125,55,157,119,85,97,32.4,Ex-fumante,Não,Não,Sim,Baixa,Ausente,Não,Não,assintomático,Arritmia,0.0888,Baixo,0
+80,Feminino,165,61,263,65,68,97,25.8,Nunca,Não,Sim,Não,Baixa,Típica,Não,Não,dor torácica,Normal,0.1356,Baixo,0
+36,Feminino,129,87,286,88,79,98,26.4,Nunca,Sim,Não,Sim,Moderada,Atípica,Sim,Não,"dor torácica, dispneia",Normal,0.035,Baixo,0
+54,Masculino,162,88,189,92,72,95,31.1,Nunca,Não,Sim,Sim,Baixa,Atípica,Sim,Não,"dor torácica, dispneia",Normal,0.1152,Baixo,0
+69,Masculino,112,68,235,98,85,95,24.3,Atual,Não,Não,Sim,Baixa,Típica,Não,Não,dor torácica,Normal,0.2405,Moderado,0
+40,Masculino,143,73,192,69,82,97,26.4,Ex-fumante,Não,Sim,Sim,Alta,Ausente,Sim,Não,dispneia,Arritmia,0.0322,Baixo,0
+70,Masculino,138,98,196,90,67,98,28.8,Nunca,Não,Não,Sim,Baixa,Típica,Não,Sim,"dor torácica, palpitações",Arritmia,0.468,Moderado,0
+46,Masculino,116,76,255,88,74,98,33.3,Nunca,Não,Não,Sim,Moderada,Ausente,Não,Não,assintomático,Normal,0.0248,Baixo,0
+75,Feminino,135,109,220,130,90,95,25.4,Ex-fumante,Não,Não,Sim,Moderada,Atípica,Não,Sim,"dor torácica, palpitações",Normal,0.0578,Baixo,1
+62,Masculino,154,82,295,131,81,98,19.4,Nunca,Não,Sim,Sim,Baixa,Típica,Não,Sim,"dor torácica, palpitações",Normal,0.3314,Moderado,0
+60,Masculino,126,87,202,104,58,96,19.0,Ex-fumante,Não,Sim,Sim,Moderada,Típica,Não,Não,dor torácica,Normal,0.0247,Baixo,0
+39,Feminino,102,101,264,97,85,96,22.2,Nunca,Não,Não,Sim,Baixa,Típica,Não,Sim,"dor torácica, palpitações",Normal,0.0258,Baixo,0
+55,Masculino,132,84,226,112,62,95,22.0,Atual,Não,Sim,Não,Moderada,Ausente,Não,Não,assintomático,Normal,0.0184,Baixo,0
+77,Feminino,116,70,255,85,94,100,27.6,Nunca,Não,Sim,Sim,Baixa,Típica,Não,Não,dor torácica,Normal,0.1405,Baixo,0
+30,Feminino,126,81,203,76,89,98,22.6,Ex-fumante,Não,Não,Não,Baixa,Atípica,Sim,Não,"dor torácica, dispneia",Alteração ST-T,0.0063,Baixo,0
+72,Masculino,131,82,220,82,80,98,25.0,Nunca,Não,Não,Sim,Baixa,Atípica,Não,Não,dor torácica,Normal,0.048,Baixo,0
+57,Masculino,101,66,217,90,78,99,24.6,Atual,Não,Não,Não,Alta,Ausente,Sim,Sim,"dispneia, palpitações",Normal,0.0359,Baixo,0
+70,Feminino,103,79,187,75,73,100,26.2,Atual,Não,Não,Sim,Moderada,Ausente,Não,Não,assintomático,Alteração ST-T,0.0434,Baixo,0
+66,Feminino,141,73,250,113,85,94,34.9,Ex-fumante,Não,Sim,Sim,Alta,Atípica,Não,Não,dor torácica,Normal,0.0797,Baixo,0
+53,Feminino,123,93,249,128,71,96,31.6,Nunca,Não,Não,Sim,Moderada,Ausente,Sim,Não,dispneia,Normal,0.0558,Baixo,0
+46,Masculino,90,82,247,65,79,96,28.5,Nunca,Não,Sim,Não,Moderada,Atípica,Não,Não,dor torácica,Normal,0.0033,Baixo,0
+64,Feminino,146,79,287,109,87,95,26.1,Atual,Não,Sim,Sim,Moderada,Típica,Não,Sim,"dor torácica, palpitações",Normal,0.3675,Moderado,1
+36,Feminino,137,81,283,102,69,95,26.3,Ex-fumante,Sim,Sim,Sim,Alta,Típica,Não,Não,dor torácica,Normal,0.0649,Baixo,0
+62,Masculino,119,85,206,118,68,96,30.0,Nunca,Não,Não,Sim,Moderada,Ausente,Não,Sim,palpitações,Hipertrofia VE,0.1254,Baixo,0
+34,Feminino,108,89,238,108,60,95,31.3,Nunca,Sim,Não,Sim,Baixa,Típica,Não,Não,dor torácica,Arritmia,0.1712,Baixo,1
+66,Feminino,147,70,196,67,62,98,24.0,Nunca,Não,Sim,Sim,Moderada,Ausente,Não,Sim,palpitações,Normal,0.0158,Baixo,0
+64,Masculino,138,70,223,73,52,97,28.6,Atual,Não,Não,Sim,Moderada,Atípica,Não,Não,dor torácica,Normal,0.0735,Baixo,0
+33,Masculino,175,95,197,109,85,98,18.4,Ex-fumante,Não,Sim,Não,Baixa,Típica,Não,Não,dor torácica,Hipertrofia VE,0.0379,Baixo,0
+72,Feminino,140,77,290,137,100,98,29.4,Ex-fumante,Sim,Sim,Sim,Moderada,Ausente,Não,Não,assintomático,Alteração ST-T,0.4226,Moderado,1
+52,Masculino,139,65,237,65,95,98,32.1,Ex-fumante,Sim,Não,Não,Baixa,Ausente,Não,Não,assintomático,Normal,0.0548,Baixo,0
+73,Masculino,129,87,213,118,55,96,27.0,Nunca,Não,Não,Sim,Alta,Ausente,Sim,Sim,"dispneia, palpitações",Normal,0.1472,Baixo,0
+31,Masculino,147,88,272,141,85,100,37.3,Nunca,Sim,Sim,Sim,Moderada,Atípica,Não,Não,dor torácica,Normal,0.1553,Baixo,0
+39,Masculino,143,64,131,104,94,97,24.1,Nunca,Não,Sim,Não,Alta,Típica,Não,Não,dor torácica,Alteração ST-T,0.0146,Baixo,0
+57,Feminino,155,85,137,123,70,93,29.5,Atual,Não,Sim,Não,Moderada,Ausente,Não,Sim,palpitações,Normal,0.0306,Baixo,0
+39,Feminino,123,91,255,88,77,95,28.2,Nunca,Não,Não,Não,Moderada,Ausente,Não,Não,assintomático,Normal,0.0034,Baixo,0
+47,Masculino,124,86,225,105,50,94,27.9,Nunca,Sim,Não,Sim,Baixa,Atípica,Não,Não,dor torácica,Normal,0.0604,Baixo,0
+66,Feminino,123,90,233,65,79,97,27.8,Nunca,Não,Não,Não,Alta,Ausente,Não,Sim,palpitações,Normal,0.011,Baixo,0
+37,Feminino,146,65,166,65,62,97,28.9,Nunca,Sim,Sim,Não,Moderada,Atípica,Não,Não,dor torácica,Normal,0.0037,Baixo,0
+67,Masculino,159,86,221,134,79,96,32.6,Ex-fumante,Não,Sim,Sim,Baixa,Típica,Sim,Sim,"dor torácica, dispneia, palpitações",Alteração ST-T,0.884,Alto,1
+34,Feminino,124,78,306,80,56,100,35.2,Nunca,Não,Não,Não,Baixa,Atípica,Sim,Não,"dor torácica, dispneia",Alteração ST-T,0.0797,Baixo,1
+38,Masculino,124,76,257,95,83,98,28.4,Nunca,Não,Sim,Sim,Baixa,Típica,Não,Sim,"dor torácica, palpitações",Normal,0.1049,Baixo,0
+62,Feminino,138,92,229,69,89,98,32.4,Atual,Sim,Não,Não,Baixa,Atípica,Não,Não,dor torácica,Normal,0.1177,Baixo,0
+74,Feminino,128,100,204,69,66,95,25.0,Nunca,Não,Sim,Não,Moderada,Típica,Não,Não,dor torácica,Arritmia,0.0453,Baixo,0
+38,Feminino,149,104,205,103,61,95,32.2,Nunca,Não,Sim,Não,Alta,Ausente,Sim,Não,dispneia,Normal,0.012,Baixo,0
+46,Masculino,91,98,133,88,48,97,24.7,Nunca,Não,Não,Não,Moderada,Ausente,Sim,Sim,"dispneia, palpitações",Normal,0.0031,Baixo,0
+81,Feminino,117,81,233,119,73,97,33.7,Atual,Não,Não,Não,Moderada,Atípica,Não,Não,dor torácica,Normal,0.1012,Baixo,0
+85,Masculino,118,86,258,121,68,93,39.2,Nunca,Não,Não,Sim,Moderada,Ausente,Não,Sim,palpitações,Hipertrofia VE,0.6554,Alto,1
+62,Masculino,90,91,156,117,56,97,27.8,Atual,Não,Sim,Não,Alta,Típica,Não,Não,dor torácica,Hipertrofia VE,0.0856,Baixo,0
+54,Masculino,115,83,194,115,82,97,17.7,Atual,Não,Sim,Não,Alta,Atípica,Sim,Não,"dor torácica, dispneia",Arritmia,0.0319,Baixo,0
+48,Feminino,116,84,173,152,70,97,25.7,Ex-fumante,Não,Sim,Não,Baixa,Típica,Sim,Sim,"dor torácica, dispneia, palpitações",Alteração ST-T,0.1334,Baixo,0
+63,Masculino,128,92,181,78,62,95,34.4,Nunca,Não,Sim,Não,Alta,Ausente,Não,Não,assintomático,Normal,0.0158,Baixo,0
+62,Feminino,152,81,224,106,69,96,31.1,Ex-fumante,Sim,Sim,Sim,Moderada,Atípica,Não,Não,dor torácica,Normal,0.0878,Baixo,0
+45,Feminino,128,73,134,140,90,97,29.6,Nunca,Não,Sim,Não,Moderada,Atípica,Não,Sim,"dor torácica, palpitações",Normal,0.0052,Baixo,0
+30,Masculino,113,77,248,143,84,97,33.3,Nunca,Sim,Não,Sim,Alta,Ausente,Sim,Não,dispneia,Alteração ST-T,0.208,Baixo,1
+37,Masculino,131,90,254,68,74,98,30.8,Ex-fumante,Sim,Sim,Não,Moderada,Atípica,Sim,Não,"dor torácica, dispneia",Alteração ST-T,0.075,Baixo,0
+83,Masculino,151,82,211,99,84,99,34.4,Nunca,Não,Sim,Não,Baixa,Atípica,Não,Não,dor torácica,Normal,0.1564,Baixo,0
+52,Feminino,114,86,120,146,61,96,32.9,Nunca,Não,Não,Não,Moderada,Típica,Não,Não,dor torácica,Arritmia,0.0343,Baixo,0
+56,Feminino,116,90,180,122,76,96,35.9,Nunca,Não,Sim,Não,Baixa,Atípica,Não,Não,dor torácica,Normal,0.0189,Baixo,0
+55,Masculino,142,78,274,113,78,98,30.2,Nunca,Não,Sim,Sim,Moderada,Ausente,Não,Não,assintomático,Normal,0.0659,Baixo,0
+73,Feminino,128,91,120,102,70,98,32.8,Nunca,Não,Não,Não,Baixa,Atípica,Sim,Não,"dor torácica, dispneia",Normal,0.0314,Baixo,0
+32,Masculino,144,87,207,97,82,96,26.9,Ex-fumante,Não,Sim,Não,Moderada,Atípica,Não,Não,dor torácica,Arritmia,0.0097,Baixo,0
+33,Feminino,132,67,172,116,66,99,25.5,Atual,Não,Não,Sim,Alta,Ausente,Sim,Não,dispneia,Arritmia,0.0373,Baixo,0
+44,Feminino,145,99,256,101,83,99,36.8,Nunca,Não,Sim,Sim,Baixa,Ausente,Não,Não,assintomático,Alteração ST-T,0.1532,Baixo,1
+56,Feminino,113,76,194,107,83,100,29.5,Ex-fumante,Sim,Não,Sim,Moderada,Ausente,Não,Não,assintomático,Arritmia,0.0559,Baixo,0
+67,Feminino,132,62,239,110,45,100,32.3,Nunca,Não,Não,Sim,Moderada,Ausente,Não,Não,assintomático,Arritmia,0.1145,Baixo,0
+56,Feminino,128,69,246,89,91,95,29.0,Nunca,Não,Não,Sim,Moderada,Atípica,Não,Não,dor torácica,Arritmia,0.0408,Baixo,0
+54,Masculino,110,70,299,123,45,97,25.5,Nunca,Sim,Não,Sim,Baixa,Ausente,Não,Sim,palpitações,Arritmia,0.3684,Moderado,1
+82,Masculino,104,83,213,190,68,97,28.5,Nunca,Não,Não,Sim,Baixa,Atípica,Sim,Não,"dor torácica, dispneia",Normal,0.3334,Moderado,0
+38,Masculino,144,79,238,65,89,97,35.4,Nunca,Não,Sim,Não,Moderada,Ausente,Não,Não,assintomático,Hipertrofia VE,0.0295,Baixo,0
+61,Masculino,126,78,160,117,72,96,31.1,Nunca,Sim,Sim,Sim,Moderada,Atípica,Não,Não,dor torácica,Alteração ST-T,0.1345,Baixo,1
+59,Feminino,114,89,272,87,57,94,20.0,Nunca,Não,Sim,Não,Moderada,Ausente,Não,Não,assintomático,Hipertrofia VE,0.0088,Baixo,0
+55,Feminino,130,86,190,124,62,97,27.3,Ex-fumante,Não,Sim,Sim,Baixa,Típica,Não,Sim,"dor torácica, palpitações",Normal,0.0941,Baixo,0
+75,Feminino,152,86,198,109,89,95,37.1,Nunca,Não,Sim,Sim,Moderada,Ausente,Sim,Sim,"dispneia, palpitações",Hipertrofia VE,0.5,Alto,1
+44,Masculino,91,87,221,129,51,97,27.4,Nunca,Sim,Não,Não,Baixa,Atípica,Sim,Sim,"dor torácica, dispneia, palpitações",Arritmia,0.1406,Baixo,0
+83,Feminino,105,89,156,141,91,95,19.6,Nunca,Não,Não,Sim,Baixa,Ausente,Não,Não,assintomático,Normal,0.0173,Baixo,0
+47,Masculino,115,57,232,113,75,95,37.7,Ex-fumante,Não,Sim,Sim,Moderada,Ausente,Sim,Não,dispneia,Arritmia,0.1943,Baixo,0
+60,Masculino,158,78,263,140,60,97,31.7,Nunca,Não,Sim,Não,Baixa,Atípica,Sim,Não,"dor torácica, dispneia",Normal,0.2388,Moderado,0
+58,Feminino,137,56,234,65,68,97,28.1,Ex-fumante,Não,Não,Não,Moderada,Típica,Sim,Não,"dor torácica, dispneia",Normal,0.0376,Baixo,0
+77,Feminino,146,82,155,153,63,98,26.6,Nunca,Não,Sim,Sim,Alta,Típica,Não,Não,dor torácica,Normal,0.1048,Baixo,1
+54,Feminino,111,82,217,119,87,100,33.7,Nunca,Não,Não,Sim,Moderada,Ausente,Não,Não,assintomático,Hipertrofia VE,0.0489,Baixo,0
+45,Masculino,112,95,253,138,86,98,25.7,Atual,Sim,Não,Não,Moderada,Ausente,Não,Não,assintomático,Alteração ST-T,0.1196,Baixo,0
+30,Feminino,140,96,143,74,54,98,34.0,Nunca,Não,Sim,Não,Baixa,Atípica,Sim,Sim,"dor torácica, dispneia, palpitações",Normal,0.0097,Baixo,0
