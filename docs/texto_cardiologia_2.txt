@@ -1,0 +1,13 @@
+Sintomas e Diagnóstico de Doenças Cardíacas
+
+Os sintomas de doenças cardíacas podem variar de acordo com o tipo de condição e o estágio da doença. Entre os sintomas mais comuns estão dor no peito, falta de ar, fadiga excessiva, tontura e palpitações.
+
+A dor no peito, também conhecida como angina, pode indicar uma redução no fluxo sanguíneo para o coração. Esse sintoma costuma ser descrito como uma sensação de pressão ou aperto no peito e pode irradiar para os braços, pescoço ou mandíbula.
+
+A falta de ar é outro sintoma frequentemente associado a problemas cardíacos. Esse sintoma pode ocorrer durante atividades físicas ou mesmo em repouso, dependendo da gravidade da condição cardíaca.
+
+O diagnóstico das doenças cardiovasculares envolve diferentes métodos clínicos e exames complementares. Entre os exames mais utilizados está o eletrocardiograma (ECG), que registra a atividade elétrica do coração e permite identificar arritmias e outras alterações cardíacas.
+
+Outro exame importante é o ecocardiograma, que utiliza ultrassom para visualizar a estrutura e o funcionamento do coração. Exames laboratoriais também podem ser utilizados para avaliar níveis de colesterol, glicose e outros marcadores associados ao risco cardiovascular.
+
+Nos últimos anos, técnicas de Inteligência Artificial e análise de dados têm sido aplicadas na área da cardiologia para auxiliar na interpretação de exames e na identificação de padrões associados a doenças cardíacas. Essas tecnologias têm potencial para melhorar a precisão dos diagnósticos e contribuir para um atendimento médico mais eficiente.
